@@ -1,6 +1,6 @@
 <?php
 /**
- * 这是 Typecho 0.9 系统的一套默认皮肤
+ * 目前这是一款默认主题，接下来学着做一些修改
  * 
  * @package Typecho Fallout Theme 
  * @author Yu Zongkun
